@@ -45,13 +45,13 @@
 }
 
 
-.centrado{
+.centrado {
 
-height: 100vh;
-background-color: black;
-display: flex;
-justify-content: center;
-align-items: center;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -106,4 +106,40 @@ align-items: center;
         height: 72px;
         opacity: 0;
     }
+}
+
+.btn-bacgraund {
+
+    background-color: rgba(255, 235, 205, 0.342);
+}
+
+.bacgraund {
+
+    background-color: #ffffff00;
+
+}
+
+
+.bacgraund-A-1 {
+
+    background-color: #ffffffb0;
+
+}
+
+.A-1{
+
+margin: auto;
+border: 1px;
+padding: 5px;
+
+}
+
+
+.img-style-A-1 {
+
+    background-image: url('img/bad-graund/C-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+
 }

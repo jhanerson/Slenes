@@ -1,5 +1,4 @@
-window.onload = function(){
+window.onload = function () {
 
-$('#onload').fadeOut();
-$('body').removeClass('no-scroll')
+    $('#onload').fadeOut();
 }

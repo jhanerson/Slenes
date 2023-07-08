@@ -143,3 +143,44 @@ padding: 5px;
     height: 85%;
 
 }
+
+
+.img-style-A-2 {
+
+    background-image: url('img/bad-graund/C-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+
+}
+
+
+.img-style-A-3 {
+
+    background-image: url('img/bad-graund/C-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+
+}
+
+
+.img-style-A-4 {
+
+    background-image: url('img/bad-graund/C-4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+
+}
+
+
+.img-style-A-5 {
+
+    background-image: url('img/bad-graund/C-5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+
+}
+

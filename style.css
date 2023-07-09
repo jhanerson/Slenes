@@ -19,7 +19,7 @@ scroll-behavior: smooth;
 .centrado {
 
     height: 100vh;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(255, 0, 76, 0.719);
     display: flex;
     justify-content: center;
     align-items: center;
